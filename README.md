@@ -14,6 +14,8 @@ This project is a simple website designed to showcase a resume. It provides a pl
 - HTML
 - CSS
 - JavaScript
+- Flask
+- Python
 
 ## Getting Started
 
